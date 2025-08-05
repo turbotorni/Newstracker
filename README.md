@@ -18,7 +18,6 @@ As long as the webscraper is not optimzed, the free API of https://newsapi.org/ 
 ## Requirements
 - Python 3.9 or higher  
 - At least 8 GB RAM (depending on the size of the summarizer model) recommended for smooth processing  
-- Internet connection (to fetch news articles)
 
 ## Issues
 Summarizer doesn't work properly
